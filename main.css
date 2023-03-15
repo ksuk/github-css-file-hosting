@@ -344,7 +344,6 @@
   line-height: 10px;
   color: var(--color-fg-default);
   vertical-align: middle;
-  background-color: var(--color-canvas-subtle);
   border: solid 1px var(--color-neutral-muted);
   border-bottom-color: var(--color-neutral-muted);
   border-radius: 6px;
@@ -661,7 +660,6 @@
 }
 
 .markdown-body table tr:nth-child(2n) {
-  background-color: var(--color-canvas-subtle);
 }
 
 .markdown-body table img {
@@ -821,7 +819,6 @@
   overflow: auto;
   font-size: 85%;
   line-height: 1.45;
-  background-color: var(--color-canvas-subtle);
   border-radius: 6px;
 }
 
@@ -860,7 +857,6 @@
 
 .markdown-body .csv-data th {
   font-weight: var(--base-text-weight-semibold, 600);
-  background: var(--color-canvas-subtle);
   border-top: 0;
 }
 
